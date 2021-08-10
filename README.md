@@ -79,4 +79,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Website - [Modupe](https://github.com/Modu9173)
 - Frontend Mentor - [@Modu9173](https://www.frontendmentor.io/profile/Modu9173)
 
-### In Progress
+# In Progress
