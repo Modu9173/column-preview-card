@@ -1,8 +1,12 @@
+body {
+  background-color:  #f2f2f2;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: #3e52a3;
 }
