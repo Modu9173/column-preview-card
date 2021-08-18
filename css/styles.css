@@ -1,5 +1,19 @@
 body {
   background-color:  #f2f2f2;
+  box-sizing: border-box;
+}
+
+/* Card  */
+main {
+  background-color: #ccc;
+  display: flex;
+  justify-content: center;
+}
+
+.car {
+  margin: 30px;
+  padding:30px;
+  background-color: #e38826;
 }
 
 .attribution {
