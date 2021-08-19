@@ -1,21 +1,37 @@
 body {
   background-color:  #f2f2f2;
-  box-sizing: border-box;
+  position: relative;
+  top: 30px;
 }
 
 /* Card  */
 main {
   background-color: #ccc;
+
   display: flex;
   justify-content: center;
+  align-content: center;
 }
 
 .car {
   margin: 30px;
   padding:30px;
+  width: 300px;
+}
+
+.sedans {
   background-color: #e38826;
 }
 
+.suvs {
+  background-color: #006970;
+}
+
+.luxury {
+  background-color: #004241;
+}
+
+/* footer */
 .attribution {
   font-size: 11px;
   text-align: center;
