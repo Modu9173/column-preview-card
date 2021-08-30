@@ -17,6 +17,7 @@ p {
   font-family: "Lexend Deca";
   color: #ffffff;
   opacity: 0.7;
+  line-height: 1.5;
 }
 
 /* Card  */
@@ -48,6 +49,11 @@ main {
   background-color: #004241;
   border-top-right-radius: 2.5%;
   border-bottom-right-radius: 2.5%;
+}
+
+button {
+  width: 100px;
+  height: 35px;
 }
 
 /* footer */
