@@ -75,6 +75,10 @@ button {
 
 button:hover {
   cursor: pointer;
+  background-color: rgba();
+  border: 1px;
+  border-color: #f2f2f2;
+  border-radius: 18px;
 }
 
 /* footer */
