@@ -80,3 +80,33 @@ button:hover {
   background-color: rgba(242, 242, 242, 0.01);
   border-radius: 18px;
 }
+
+/* Media Queries */
+
+@media (max-width: 820px) {
+  main {
+    flex-flow: column wrap;
+  }
+
+  .car {
+    height: 350px;
+  }
+
+  .sedans {
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    border-bottom-left-radius: 0;
+  }
+
+  .luxury {
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+    border-top-right-radius:0;
+  }
+
+  button {
+    position: relative;
+    top: 10px;
+  }
+}
+
