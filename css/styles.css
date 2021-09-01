@@ -35,8 +35,8 @@ main {
 
 .sedans {
   background-color: #e38826;
-  border-top-left-radius: 2.5%;
-  border-bottom-left-radius: 2.5%;
+  border-top-left-radius: 3%;
+  border-bottom-left-radius: 3%;
 }
 
 .sedans-btn {
