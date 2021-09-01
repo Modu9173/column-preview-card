@@ -53,8 +53,8 @@ main {
 
 .luxury {
   background-color: #004241;
-  border-top-right-radius: 2.5%;
-  border-bottom-right-radius: 2.5%;
+  border-top-right-radius: 3%;
+  border-bottom-right-radius: 3%;
 }
 
 .luxury-btn {
