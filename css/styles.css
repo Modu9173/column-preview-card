@@ -22,8 +22,6 @@ p {
 
 /* Card  */
 main {
-  background-color: #ccc;
-
   display: flex;
   justify-content: center;
   align-content: center;
